@@ -59,9 +59,7 @@ namespace Net6ProcessLab
 //  proc.StartInfo.UseShellExecute = false;
 //  proc.StartInfo.RedirectStandardOutput = true;
 //  proc.Start();
-
 //  StreamReader sr = proc.StandardOutput;
 //  string outputMsg = sr.ReadToEnd();
-
 //  Console.WriteLine(outputMsg);
 //}
